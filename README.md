@@ -51,11 +51,11 @@ python "feature_engineering_for_fundamental_data.py"
 python "merge_fundamental & historical data.py"
 
 # Step 4: Analysis & Modeling
-python EDA_anaysis.py
+python “EDA_anaysis.py”
 python "Machine Learning.py"
 
 # Step 5: Backtesting
-python Backtesting.py
+python "Backtesting.py"
 ```
 
 ---
